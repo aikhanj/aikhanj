@@ -1,44 +1,39 @@
 <!-- banner.svg -->
-<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="aikhan jumashukurov — banner">
+  <!-- transparent background (no fill needed) -->
 
-  <!-- transparent background -->
-  <rect width="1200" height="220" fill="transparent"/>
-
-  <!-- black bar sweep -->
-  <rect x="-300" y="150" width="300" height="3" fill="#000">
-    <animate attributeName="x" from="-300" to="1200" dur="3s" repeatCount="indefinite"/>
+  <!-- moving black bar under the text -->
+  <rect x="-320" y="150" width="320" height="3" fill="#000000">
+    <animate attributeName="x" from="-320" to="1200" dur="3s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- name -->
-  <text x="1150" y="95"
+  <text x="1150" y="96"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="44"
         fill="#FFFFFF"
         opacity="0">
     aikhan jumashukurov
-    <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
   </text>
 
-  <!-- flex lines -->
-  <text x="1150" y="135"
+  <text x="1150" y="134"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="22"
         fill="#FFFFFF"
         opacity="0">
     recognized by the Kyrgyz government · 2× AI research · Princeton CS ’29
-    <animate attributeName="opacity" values="0;0;1" dur="2s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1" dur="1.2s" begin="0.4s" fill="freeze"/>
   </text>
 
-  <text x="1150" y="165"
+  <text x="1150" y="162"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="20"
         fill="#FFFFFF"
         opacity="0">
-    Kyrgyz National Math Olympiad · 1st place · taught 1000+ students
-    <animate attributeName="opacity" values="0;0;1" dur="2s" begin="0.8s" fill="freeze"/>
+    Kyrgyz National Math Olympiad — 1st · taught 1000+ students
+    <animate attributeName="opacity" values="0;0;1" dur="1.2s" begin="0.7s" fill="freeze"/>
   </text>
-
 </svg>
