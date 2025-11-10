@@ -16,11 +16,9 @@
 
 <p align="center">
   recognized by the <b>Kyrgyz government</b> for national AI innovation<br/>
-  <b>2× published AI research</b> — transformer reliability & low-resource NLP<br/>
-  <b>one of the first Kyrgyz students at Princeton University</b><br/>
+  <b>2× published AI research</b> transformer reliability & low-resource NLP<br/>
   founder of <b>IKyrgyz</b>, the first Kyrgyz-language AI assistant<br/>
-  taught <b>1000+ students</b> to code through community initiatives<br/>
-  building systems that merge <b>AI, governance, and language</b>
+  taught <b>1000+ students</b> to code through ITECABIS<br/>
 </p>
 
 <br/>
