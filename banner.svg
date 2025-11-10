@@ -1,14 +1,15 @@
 <!-- banner.svg -->
-<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="aikhan jumashukurov — banner">
-  <!-- transparent background (no fill needed) -->
+<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="aikhan jumashukurov — banner">
+  <!-- transparent background -->
+  <rect width="1200" height="240" fill="transparent"/>
 
-  <!-- moving black bar under the text -->
-  <rect x="-320" y="174" width="320" height="3" fill="#000000">
+  <!-- moving white bar (lowered position) -->
+  <rect x="-320" y="200" width="320" height="3" fill="#FFFFFF">
     <animate attributeName="x" from="-320" to="1200" dur="3s" repeatCount="indefinite"/>
   </rect>
 
   <!-- name -->
-  <text x="1150" y="96"
+  <text x="1150" y="95"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="44"
@@ -19,7 +20,7 @@
   </text>
 
   <!-- flex line 1 -->
-  <text x="1150" y="134"
+  <text x="1150" y="133"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="22"
@@ -30,7 +31,7 @@
   </text>
 
   <!-- flex line 2 -->
-  <text x="1150" y="162"
+  <text x="1150" y="161"
         text-anchor="end"
         font-family="Times New Roman, Times, serif"
         font-size="20"
