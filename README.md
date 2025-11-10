@@ -12,13 +12,12 @@
 
 <br/>
 
-<b>recognized by the Kyrgyz government</b> — national AI innovation<br/>
-<b>2× published AI research</b> — transformer reliability · low-resource translation<br/>
-<b>one of the first Kyrgyz students at Princeton University</b><br/>
-<b>founder of IKyrgyz</b> — first Kyrgyz-language AI assistant<br/>
-<b>Crimson Education 18u18 Global Award</b> — top 18 innovators worldwide<br/>
+<b>recognized by the Kyrgyz government</b><br/>
+<b>2× published AI research</b><br/>
+<b>one of the 1st Kyrgyz students at Princeton University</b><br/>
+<b>founder of IKyrgyz</b>, first Kyrgyz-language AI assistant<br/>
 <b>International Math Olympiad</b> — gold medal · AMC 8 1st place · AMC 10 top 3%<br/>
-<b>Republican Olympiad</b> — 1st of 1300 participants<br/>
+<b>Kyrgyz National Math Olympiad</b>, 1st place<br/>
 taught <b>1000+</b> students programming before leaving home
 
 <br/><br/>
